@@ -1,5 +1,14 @@
 # 💫 About Me:
+
+🚀 AI Undergraduate | Aspiring Data Scientist & ML Engineer
 Machine Learning, Kaggle, Data Science,Deep Learning 
+💻 Python • C • Pandas • NumPy • Machine Learning
+📊 Exploring Data Science, RAG, LLMs & Generative AI
+🧩 Solving LeetCode | Building Real-World Projects
+🌱 Always learning, always building.
+
+📫 Open to internships and collaboration.
+
 
 
 ## 🌐 Socials:
