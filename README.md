@@ -9,7 +9,15 @@ Machine Learning, Kaggle, Data Science,Deep Learning
 
 📫 Open to internships and collaboration.
 
+<div align="center">
 
+### 🚀 Tech Explorer | AI & ML Enthusiast | Full-Stack Developer | Open Source Learner
+
+*"Building solutions that solve real-world problems through technology."*
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovan-rajbanshi-57004b250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pwangdu323@gmail.com) 
