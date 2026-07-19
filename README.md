@@ -1,5 +1,7 @@
 # 💫 About Me:
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=1200&color=FF6B6B&center=true&vCenter=true&width=700&lines=💻+Software+Developer;🤖+AI+%26+ML+Enthusiast;📊+Data+Science+Enthusiast" alt="Typing SVG" />
+  <h3/>
 🚀 AI Undergraduate | Aspiring Data Scientist & ML Engineer
 Machine Learning, Kaggle, Data Science,Deep Learning 
 💻 Python • C •  C++ • Pandas • NumPy • Machine Learning
