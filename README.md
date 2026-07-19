@@ -182,9 +182,9 @@ If you found these projects helpful or interesting, consider giving the reposito
 
 ## 📬 Connect With Me
 
-- GitHub: **https://github.com/your-username**
-- LinkedIn: **https://linkedin.com/in/your-profile**
-- Email: **your-email@example.com**
+- GitHub: **https://github.com/SovanAI**
+- LinkedIn: **www.linkedin.com/in/sovan-rajbanshi-57004b250**
+- Email: **pwangdu323@gmail.com**
 
 ---
 
