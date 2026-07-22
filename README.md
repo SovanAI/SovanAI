@@ -107,18 +107,7 @@ Projects focused on image processing, object detection, facial landmarks, hand t
 
 ---
 
-### 🌐 Web Development Projects
-**Tech Stack:** HTML, CSS, JavaScript, React.js
 
-**Description**
-Modern and responsive web applications built using frontend technologies with emphasis on user experience and clean design.
-
-**Key Features**
-- Responsive design
-- Modern UI
-- Component-based architecture
-- Interactive interfaces
-- Clean code practices
 
 ---
 
