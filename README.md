@@ -42,156 +42,88 @@ Machine Learning, Kaggle, Data Science,Deep Learning
 # 🚀 My Projects Portfolio
 
 Welcome to my project portfolio! This repository showcases the projects I've built while exploring **Artificial Intelligence, Machine Learning, Data Science, Web Development, and Computer Vision**. Each project focuses on solving real-world problems while improving my technical and problem-solving skills.
+## 🚀 Featured Projects
 
 ---
 
-## 📌 Projects Overview
+### 🤖 Autonomous Drone Research
+> **Research Internship | IIIT Bhagalpur**
 
-### 🥗 LabelSense AI
-**Tech Stack:** React.js, Python, OpenCV, MediaPipe, AI
+📌 Conducting research on intelligent autonomous drone systems with a focus on AI-driven navigation, perception, and decision-making.
 
-**Description**
-LabelSense AI is an intelligent food label analysis platform designed to simplify how consumers understand packaged food ingredients. Instead of presenting long and complex ingredient lists, the system analyzes product labels and provides easy-to-understand insights using AI and computer vision.
+**Highlights**
+- 🧠 AI-based autonomous navigation
+- 📡 Computer Vision & Sensor Fusion
+- 📄 Research paper under development
+- 🔬 Real-world applications in robotics
 
-**Key Features**
-- 📷 Scan food labels using images
-- 🤖 AI-powered ingredient recognition
-- 🧠 Simplified explanation of ingredients
-- ⚠️ Detect potentially harmful additives
-- 💻 Interactive React-based user interface
+**Tech Stack**
 
----
-
-### 🚗 Used Car Price Prediction
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
-
-**Description**
-A Machine Learning project that predicts the selling price of used cars based on historical data and vehicle specifications. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation.
-
-**Key Features**
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Machine Learning model training
-- Performance evaluation using regression metrics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### 📊 Data Analysis & Visualization
-**Tech Stack:** Python, Pandas, Matplotlib, NumPy
+### 📰 News App (MERN)
 
-**Description**
-A collection of data analysis projects focusing on extracting meaningful insights from datasets using statistical analysis and visualization techniques.
+A responsive news application that fetches real-time headlines using News APIs.
 
-**Key Features**
-- Data cleaning
-- Missing value handling
-- Statistical analysis
-- Data visualization
-- Insight generation
+✨ Features
+- 🌍 Latest News
+- 🔍 Search by Category
+- 📱 Responsive UI
+- ⚡ Fast Loading
 
----
+**Tech Stack**
 
-### 👁️ Computer Vision Projects
-**Tech Stack:** Python, OpenCV, MediaPipe
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Description**
-Projects focused on image processing, object detection, facial landmarks, hand tracking, and real-time computer vision applications.
-
-**Key Features**
-- Image processing
-- Object detection
-- Hand tracking
-- Facial landmark detection
-- Real-time video analysis
+🔗 **Repository:** https://github.com/SovanAI/News_App
 
 ---
 
-### 🌐 Web Development Projects
-**Tech Stack:** HTML, CSS, JavaScript, React.js
+### 📊 Student Dropout Prediction
 
-**Description**
-Modern and responsive web applications built using frontend technologies with emphasis on user experience and clean design.
+Machine Learning model to predict student dropout risk using educational datasets.
 
-**Key Features**
-- Responsive design
-- Modern UI
-- Component-based architecture
-- Interactive interfaces
-- Clean code practices
+✨ Features
+- 📈 Data Analysis & Visualization
+- 🤖 Machine Learning Models
+- 📊 Performance Evaluation
+- 📉 Predictive Analytics
 
----
+**Tech Stack**
 
-## 🛠️ Technologies I Use
-
-### Programming Languages
-- Python
-- JavaScript
-- C
-- HTML5
-- CSS3
-
-### Frameworks & Libraries
-- React.js
-- OpenCV
-- MediaPipe
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🎯 Project Goals
+## 📈 Project Statistics
 
-These projects are developed to:
-
-- Solve real-world problems using technology
-- Enhance AI and Machine Learning skills
-- Improve software development practices
-- Build scalable and user-friendly applications
-- Learn modern development tools and frameworks
-
----
-
-## 📈 Future Improvements
-
-- Deploy projects to cloud platforms
-- Integrate advanced AI models
-- Improve UI/UX
-- Add authentication and databases
-- Optimize application performance
+| 📌 Category | 🚀 Status |
+|-------------|-----------|
+| Machine Learning | 🟢 Active |
+| Data Science | 🟢 Active |
+| MERN Stack | 🟢 Active |
+| Research | 🟢 Ongoing |
+| Open Source | 🔵 Growing |
 
 ---
 
-## 🤝 Contributions
+## ⭐ Current Focus
 
-Contributions, suggestions, and feedback are always welcome!
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🚁 Autonomous Drone Research
+- 🌐 MERN Stack Development
+- 📚 Research & Publications
 
-If you have ideas for improvements or find any issues, feel free to open an Issue or submit a Pull Request.
 
----
-
-## ⭐ Support
-
-If you found these projects helpful or interesting, consider giving the repository a ⭐. It helps support the project and motivates future development.
-
----
-
-## 📬 Connect With Me
-
-- GitHub: **https://github.com/SovanAI**
-- LinkedIn: **www.linkedin.com/in/sovan-rajbanshi-57004b250**
-- Email: **pwangdu323@gmail.com**
-
----
-
-> *"Building intelligent solutions that transform ideas into impactful technology."*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
