@@ -115,30 +115,36 @@ A real-world software concept focused on helping shop owners manage their **prod
 
 ---
 
-## 👁️ Human Mess Recognition System
+## 👁️ HMR — Human/Mess Recognition & Detection System
 
-> **Computer Vision / AI Project**
+> **Computer Vision & AI Detection Pipeline**
 
-An AI-based computer vision project exploring recognition and understanding of objects and environments in real-world scenes.
+A computer-vision project focused on detecting and recognizing humans/mess in real-world visual environments through a modular AI pipeline.
 
-### Focus Areas
+The system is organized into dedicated components for **camera handling, input processing, human analysis, detection, fusion, output generation, training and pipeline testing**.
 
-* 👁️ Computer Vision
-* 🖼️ Image processing
-* 🎯 Object detection
-* 🧠 Machine Learning
-* 📷 OpenCV
-* 📊 Dataset preparation
-* 🤖 AI-based scene understanding
+### Highlights
+
+* 👁️ Computer Vision pipeline
+* 🎯 AI-based detection
+* 🧠 Human/environment recognition
+* 📷 Camera & image/video input processing
+* 🔄 Detection and information fusion
+* 🏋️ Model training workflow
+* 🧪 Pipeline and detection testing
+* 🧩 Modular architecture
+* ⚡ YOLO-based detection experimentation
 
 ### Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
----
+🔗 **Repository:** https://github.com/SovanAI/HMR-detection-system
+
 
 ## 🚁 Autonomous Drone Research
 
