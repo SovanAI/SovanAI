@@ -1,129 +1,212 @@
-# 💫 About Me:
+# 👋 Hi, I'm Sovan Rajbanshi
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Enthusiast;Data+Science+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Developer;Full-Stack+Developer;Data+Science+Enthusiast;Computer+Vision+Explorer;LLM+%26+RAG+Builder;Aspiring+ML+Engineer" />
 
 </div>
-🚀 AI Undergraduate | Aspiring Data Scientist & ML Engineer
-Machine Learning, Kaggle, Data Science,Deep Learning 
-💻 Python • C •  C++ • Pandas • NumPy • Machine Learning
-📊 Exploring Data Science, RAG, LLMs & Generative AI
-🧩 Solving LeetCode | Building Real-World Projects
-🌱 Always learning, always building.
-
-📫 Open to internships and collaboration.
 
 <div align="center">
 
-### 🚀 Tech Explorer | AI & ML Enthusiast | Full-Stack Developer | Open Source Learner
+### 🚀 AI/ML Developer | Full-Stack Developer | Data Science Enthusiast | Researcher
 
-*"Building solutions that solve real-world problems through technology."*
+**Building intelligent, practical and real-world technology solutions.**
 
 </div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovan-rajbanshi-57004b250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pwangdu323@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SovanAI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SovanAI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **AI Undergraduate | Aspiring ML Engineer & Data Scientist**
 
-#  💻 LeetCode Status:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Phunsukh2005?theme=dark&font=Karma)    
+I'm interested in building software that combines **Artificial Intelligence, Machine Learning, Data Science and Full-Stack Development** to solve practical problems.
 
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
+* 🧠 Building and experimenting with **LLMs, RAG and Generative AI**
+* 👁️ Working with **Computer Vision & OpenCV**
+* 📊 Developing **Data Science & Predictive ML projects**
+* 🌐 Building **Full-Stack applications and APIs**
+* 🧩 Practicing **Data Structures & Algorithms / LeetCode**
+* 🔬 Exploring **AI research, autonomous systems and robotics**
+* 🖥️ Experimenting with **local LLMs using Ollama**
+* ⚡ Exploring **FastAPI, backend architecture and AI-powered applications**
+* 🔌 Exploring **ESP32, Arduino and embedded systems**
+* 🌱 Always learning. Always building.
 
+📫 **Open to internships, research opportunities, collaborations and interesting projects.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=SovanAI&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🚀 My Projects Portfolio
 
-Welcome to my project portfolio! This repository showcases the projects I've built while exploring **Artificial Intelligence, Machine Learning, Data Science, Web Development, and Computer Vision**. Each project focuses on solving real-world problems while improving my technical and problem-solving skills.
-## 🚀 Featured Projects
+# 🧠 Areas of Interest
+
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Data Science
+Computer Vision
+Large Language Models (LLMs)
+Retrieval-Augmented Generation (RAG)
+Generative AI
+Natural Language Processing
+Full-Stack Development
+Backend Development
+API Development
+Autonomous Systems
+Robotics
+Embedded Systems
+Data Structures & Algorithms
+AI Research
+```
 
 ---
 
-### 🤖 Autonomous Drone Research
+# 🚀 Featured Projects
+
+## 🛰️ SatQuery AI
+
+> **AI-powered intelligent query and information system**
+
+A project exploring the combination of **AI, LLMs, RAG and software engineering** to build an intelligent system capable of understanding user queries and working with structured/unstructured information.
+
+### Highlights
+
+* 🧠 LLM-powered query understanding
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 📚 Knowledge/data retrieval
+* 🤖 Generative AI experimentation
+* ⚡ Backend/API architecture
+* 🧩 AI-assisted information processing
+* 🖥️ Exploring local LLM deployment
+
+### Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-00C4FF?style=for-the-badge)
+
+---
+
+## 📦 Smart Inventory & Business Management System
+
+> **Software solution for small businesses and shop owners**
+
+A real-world software concept focused on helping shop owners manage their **products, stock, warehouse/godown records and business data** through a centralized database-driven application.
+
+### Planned Capabilities
+
+* 📦 Product management
+* 🏪 Inventory management
+* 🗃️ Warehouse/Godown records
+* 📊 Stock tracking
+* 🔎 Product search
+* 👥 Customer/business records
+* 🗄️ Database management
+* 📈 Business data analysis
+* ⚙️ Custom software solutions based on business requirements
+
+### Focus
+
+**Turning manual business processes into simple, scalable software solutions.**
+
+---
+
+## 👁️ Human Mess Recognition System
+
+> **Computer Vision / AI Project**
+
+An AI-based computer vision project exploring recognition and understanding of objects and environments in real-world scenes.
+
+### Focus Areas
+
+* 👁️ Computer Vision
+* 🖼️ Image processing
+* 🎯 Object detection
+* 🧠 Machine Learning
+* 📷 OpenCV
+* 📊 Dataset preparation
+* 🤖 AI-based scene understanding
+
+### Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+---
+
+## 🚁 Autonomous Drone Research
+
 > **Research Internship | IIIT Bhagalpur**
 
-📌 Conducting research on intelligent autonomous drone systems with a focus on AI-driven navigation, perception, and decision-making.
+Research work focused on intelligent autonomous drone systems and AI-driven navigation.
 
-**Highlights**
-- 🧠 AI-based autonomous navigation
-- 📡 Computer Vision & Sensor Fusion
-- 📄 Research paper under development
-- 🔬 Real-world applications in robotics
+### Research Areas
 
-**Tech Stack**
+* 🧠 AI-based autonomous navigation
+* 👁️ Computer Vision
+* 📡 Sensor-based perception
+* 🔄 Sensor Fusion
+* 🤖 Autonomous decision-making
+* 🔬 Robotics
+* 📄 Research & publication
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ---
 
-### 📰 News App (MERN)
+## 📰 News App — MERN
 
-A responsive news application that fetches real-time headlines using News APIs.
+A responsive news application that retrieves and displays current news through APIs.
 
-✨ Features
-- 🌍 Latest News
-- 🔍 Search by Category
-- 📱 Responsive UI
-- ⚡ Fast Loading
+### Features
 
-**Tech Stack**
+* 🌍 News discovery
+* 🔍 Search and categories
+* 📱 Responsive interface
+* ⚡ API-based data retrieval
+* 🌐 Full-stack architecture
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 🔗 **Repository:** https://github.com/SovanAI/News_App
 
 ---
 
-### 📊 Student Dropout Prediction
+## 📊 Student Dropout Prediction
 
-Machine Learning model to predict student dropout risk using educational datasets.
+Machine Learning project focused on predicting student dropout risk using educational datasets.
 
-✨ Features
-- 📈 Data Analysis & Visualization
-- 🤖 Machine Learning Models
-- 📊 Performance Evaluation
-- 📉 Predictive Analytics
+### Highlights
 
-**Tech Stack**
+* 📊 Exploratory Data Analysis
+* 🧹 Data preprocessing
+* 📈 Data visualization
+* 🤖 Machine Learning models
+* 📉 Predictive analytics
+* 📏 Model evaluation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Technologies
 
----
-
-## 📈 Project Statistics
-
-| 📌 Category | 🚀 Status |
-|-------------|-----------|
-| Machine Learning | 🟢 Active |
-| Data Science | 🟢 Active |
-| MERN Stack | 🟢 Active |
-| Research | 🟢 Ongoing |
-| Open Source | 🔵 Growing |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 
 ---
-
-## ⭐ Current Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🚁 Autonomous Drone Research
-- 🌐 MERN Stack Development
-- 📚 Research & Publications
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
