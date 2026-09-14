@@ -64,32 +64,35 @@ AI Research
 
 # 🚀 Featured Projects
 
-## 🛰️ SatQuery AI
+## 🧠 SetQuery — AI-Powered Query & Knowledge System
 
-> **AI-powered intelligent query and information system**
+> **AI • LLM • RAG • Intelligent Query Processing**
 
-A project exploring the combination of **AI, LLMs, RAG and software engineering** to build an intelligent system capable of understanding user queries and working with structured/unstructured information.
+**SetQuery** is an AI-focused project exploring intelligent query processing and the use of modern Large Language Model technologies to build a more useful and context-aware information system.
 
-### Highlights
+The project is part of my exploration into **LLMs, Retrieval-Augmented Generation (RAG), AI application development and intelligent information retrieval**.
 
-* 🧠 LLM-powered query understanding
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 📚 Knowledge/data retrieval
-* 🤖 Generative AI experimentation
-* ⚡ Backend/API architecture
-* 🧩 AI-assisted information processing
-* 🖥️ Exploring local LLM deployment
+### 🎯 Project Focus
 
-### Technologies
+* 🧠 Intelligent query processing
+* 🤖 Large Language Models (LLMs)
+* 🔎 Information retrieval
+* 📚 Context-aware responses
+* 🧩 RAG-based AI workflows
+* ⚡ AI application development
+* 🖥️ Local AI / LLM experimentation
+* 🔧 Modular AI system development
+
+### 🛠️ Technologies & Concepts
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C4FF?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-00C4FF?style=for-the-badge)
 
----
+🔗 **Repository:** https://github.com/SovanAI/SetQuery
+
 
 ## 📦 Smart Inventory & Business Management System
 
